@@ -1,0 +1,15 @@
+.home_container{
+          background-image: url('../../images/header.jpg');
+          background-position: center center;
+          background-size: cover;
+          height: 55rem;
+          overflow: hidden;
+}
+.header_container_role{
+          width: 55rem;
+          height: 56rem;
+          box-shadow: 2px 0 0 black, 0 -2px 0 black;
+          border-radius: 50%;
+          margin: 7rem 0 0 -6rem;
+          padding: 1px;
+}

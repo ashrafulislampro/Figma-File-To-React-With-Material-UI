@@ -1,0 +1,6 @@
+.footer_container {
+  background-image: url("../../images/footer.jpg");
+  background-position: center center;
+  background-size: cover;
+  height: 54rem;
+}
